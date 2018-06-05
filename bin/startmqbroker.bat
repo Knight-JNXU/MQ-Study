@@ -1,0 +1,1 @@
+mqbroker.cmd -n localhost:9876 autoCreateTopicEnable=true &
