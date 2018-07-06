@@ -49,5 +49,5 @@ We always welcome new contributions, whether for trivial cleanups, big new featu
 
 
 start
-bin/mqnamesrv.cmd
-bin/startmqbroker.bat
+* bin/mqnamesrv.cmd
+* bin/startmqbroker.bat
